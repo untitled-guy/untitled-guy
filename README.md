@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Ruby**.
 - 🔭 I’m working on **several open-source Python projects**.
 - 👯 I’m looking to collaborate on **interesting and impactful open-source projects**.
-- 💬 Ask me about **OSINT, Python, GNU/Linux, or any tech-related** topics!
+- 💬 Ask me about **OSINT, Python, GNU/Linux, online privacy or any tech-related** topics!
 - 📫 How to reach me: **github.chemist233@slmails.com**
 
 ## 🛠️ Technologies & Tools
