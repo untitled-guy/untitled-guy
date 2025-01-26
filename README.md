@@ -17,4 +17,4 @@
 ## 📈 GitHub Stats
 ![untitled-guy's GitHub stats](https://github-readme-stats.vercel.app/api?username=untitled-guy&show_icons=true&theme=radical)
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate!
+***Feel free to explore my repositories and get in touch if you'd like to collaborate!***
