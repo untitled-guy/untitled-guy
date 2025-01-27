@@ -3,7 +3,6 @@
 *Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and work on innovative open-source projects. Here's a little bit about me:*
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Ruby**.
 - 🔭 I’m working on **several open-source Python projects**.
 - 👯 I’m looking to collaborate on **interesting and impactful open-source projects**.
 - 💬 Ask me about **OSINT, Python, GNU/Linux, online privacy or any tech-related** topics!
