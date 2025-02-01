@@ -6,11 +6,10 @@
 - 🔭 I’m working on **several open-source Python projects**.
 - 👯 I’m looking to collaborate on **interesting and impactful open-source projects**.
 - 💬 Ask me about **OSINT, Python, GNU/Linux, online privacy or any tech-related** topics!
-- 📫 How to reach me: **github.chemist233@slmails.com**
 
 ## 🛠️ Technologies & Tools
 - 🐍 Languages: Python, HTML, Bash
-- 🐈‍⬛ Tools: Git, WSL, VS Codium
+- 🐈‍⬛ Tools: Git, WSL, VS Code
 - 🐧 Operating systems: Windows 11, GNU/Linux
 
 ## 📈 GitHub Stats
