@@ -9,7 +9,7 @@
 
 ## 🛠️ Technologies & Tools
 - 🐍 Languages: Python, HTML, Bash
-- 🐈‍⬛ Tools: Git, WSL, VS Code
+- 🐈‍⬛ Tools: Git, WSL, VS Codium
 - 🐧 Operating systems: Windows 11, GNU/Linux
 
 ## 📈 GitHub Stats
