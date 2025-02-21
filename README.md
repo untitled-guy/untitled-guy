@@ -12,7 +12,7 @@
 
 - 🐍 Languages: Python, HTML, Bash
 - 🐈‍⬛ Tools: Git, WSL, VS Codium, Ollama, Docker
-- 🐧 Operating systems: Windows 11, GNU/Linux
+- 🐧 Operating system: Fedora 41 GNU/Linux
 
 ## 🎮 Projects i made: 
 - ***📦[Project Package](https://github.com/untitled-guy/Project-Package): Just a simple open-source multitool for OSINT.***
